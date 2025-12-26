@@ -3,12 +3,14 @@
 ## Part One
 You Check the installed version of OS by running this command:
   *$ cat /etc/issue*
+<img width="288" height="42" alt="{686C098B-F013-4126-8EC0-EDB913255092}" src="https://github.com/user-attachments/assets/e766e941-4f74-465f-aff7-5abb9afa560f" />
 
 ## Part Two
 To create a new user and add into the group you should use this command:
   *$ sudo adduser <user_name>*
   *$ sudo usermod -aG adm <user_name>*
   *$ cat /etc/passwd | grep <user_name>*
+<img width="770" height="361" alt="{C9C8D531-8475-4850-8735-846154F0FD69}" src="https://github.com/user-attachments/assets/41dc8e4d-058d-4a3a-8575-62f37e4b9a59" />
 
 ## Part Three
 To set new machine name use this:
@@ -16,6 +18,7 @@ To set new machine name use this:
 
 To show sys info including the current hostname use command:
   *$ hostnamectl*
+<img width="426" height="206" alt="{FA4E4BA8-08C6-447F-B570-AFBA53C8DC52}" src="https://github.com/user-attachments/assets/98c35101-5d46-4f31-b12a-1d62215cb550" />
 
 
 <img width="1920" height="1080" alt="{240AF51C-E279-478A-98E1-76ADF485B923} (2)" src="https://github.com/user-attachments/assets/64689a10-89b9-4b52-8921-7f748cf84953" />
